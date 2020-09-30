@@ -9,6 +9,7 @@
 
 import random
 
+# Edit path to 'words.txt' file as needed
 WORDLIST_FILENAME = "/Users/adityakuroodi/Documents/PythonClass/words.txt"
 
 def loadWords():
